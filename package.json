@@ -1,6 +1,6 @@
 {
   "name": "karma-cucumber-reporter",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "main": "lib/index.js",
   "description": "Reporter that transforms test results from Karma to Cucumber format",
   "keywords": [
@@ -13,7 +13,6 @@
     "type": "git",
     "url": "https://github.com/akullpp/karma-cucumber-reporter.git"
   },
-  "main": "lib/index.js",
   "author": "Andreas Kull <akullpp@gmail.com>",
   "license": "MIT",
   "dependencies": {

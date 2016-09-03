@@ -75,4 +75,6 @@ module.exports = function(config) {
 
 ## Demo
 
-For a demonstration, please have a look at the `examples` folder.
+For a demonstration, please have a look at the [examples](examples/) folder. It will produce a report like this:
+
+![](examples/report.png)

@@ -73,8 +73,8 @@ module.exports = function(config) {
 };
 ```
 
-## Demo
+## Example
 
-For a demonstration, please have a look at the [examples](examples/) folder. It will produce a report like this:
+For an example, please have a look at the [examples](examples/) folder. It will produce a report like this when you run `npm test`:
 
 ![](examples/report.png)

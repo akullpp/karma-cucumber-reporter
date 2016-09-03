@@ -18,7 +18,7 @@
             "keyword": "",
             "name": "should work",
             "result": {
-              "duration": 0,
+              "duration": 1000000,
               "status": "passed"
             }
           }

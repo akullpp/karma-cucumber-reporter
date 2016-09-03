@@ -15,7 +15,7 @@ Tests have to be written with a specific syntax to be recognized and translated 
 ```
 describe('PREFIX FEATURE', function () {
   describe('SCENARIO A', function () { //... });
-  
+
   describe('SCENARIO A', function () { //... });
 });
 ```
@@ -75,4 +75,4 @@ module.exports = function(config) {
 
 ## Demo
 
-For a demonstration, please have a look at `demo`.
+For a demonstration, please have a look at the `examples` folder.

@@ -1,0 +1,29 @@
+[
+  {
+    "keyword": "Feature",
+    "name": "Featurename",
+    "uri": "featurename",
+    "tags": [
+      {
+        "name": "XYZ-001"
+      }
+    ],
+    "elements": [
+      {
+        "name": "Scenario A",
+        "type": "scenario",
+        "keyword": "Scenario",
+        "steps": [
+          {
+            "keyword": "",
+            "name": "should work",
+            "result": {
+              "duration": 0,
+              "status": "passed"
+            }
+          }
+        ]
+      }
+    ]
+  }
+]

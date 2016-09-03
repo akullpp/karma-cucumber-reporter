@@ -8,6 +8,11 @@
     "testing",
     "cucumber"
   ],
+  "files": [
+    "lib/**/*",
+    "LICENSE",
+    "README.md"
+  ],
   "homepage": "https://github.com/akullpp/karma-cucumber-reporter",
   "repository": {
     "type": "git",

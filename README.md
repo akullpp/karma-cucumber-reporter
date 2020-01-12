@@ -31,13 +31,17 @@ describe('PREFIX FEATURE', function () {
 module.exports = function(config) {
   config.set({
     reporters: ['cucumber'],
-    // ...
-    plugins: [
-      // ...
-      require('karma-cucumber-reporter'),
-    ],
   });
 };
+```
+
+If you use multiple plugins, you have to add `karma-cucumber-reporter` as well:
+
+```
+plugins: [
+  // ...
+  require('karma-cucumber-reporter'),
+],
 ```
 
 ## Options

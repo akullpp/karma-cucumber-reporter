@@ -30,7 +30,12 @@ describe('PREFIX FEATURE', function () {
 // karma.conf.js
 module.exports = function(config) {
   config.set({
-    reporters: ['cucumber']
+    reporters: ['cucumber'],
+    // ...
+    plugins: [
+      // ...
+      require('karma-cucumber-reporter'),
+    ],
   });
 };
 ```
